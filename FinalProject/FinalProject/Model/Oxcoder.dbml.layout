@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 14" name="Oxcoder">
+  <DataContextMoniker Name="/OxcoderDataContext" />
+  <nestedChildShapes>
+    <classShape Id="fe711cdc-5f4b-4ea6-b970-f8fdfbd10c7b" absoluteBounds="6.75, 6.5, 2, 1.7625655110677068">
+      <DataClassMoniker Name="/OxcoderDataContext/Admin" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e520c0a4-218e-46ac-bc4e-311112f8ae2a" absoluteBounds="6.765, 6.96, 1.9700000000000002, 1.2025655110677083" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e3eb9565-c86c-4b0f-84b4-ea37b8bb86ab" absoluteBounds="3.5, 11.75, 2, 1.9535852050781237">
+      <DataClassMoniker Name="/OxcoderDataContext/Quiz" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8798f964-4829-4cba-9fa0-d98498220590" absoluteBounds="3.515, 12.21, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="bc02b3ef-2760-414d-af2c-de45f3e8e61d" absoluteBounds="3.5, 3.5, 2, 2.5266442871093755">
+      <DataClassMoniker Name="/OxcoderDataContext/Challenge" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ccf21aa8-3298-4774-accb-69a5ae7eaac3" absoluteBounds="3.515, 3.96, 1.9700000000000002, 1.966644287109375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a511fcd2-3202-4bf0-850c-e1bd906b463b" absoluteBounds="6.25, 4.125, 2, 1.1895064290364585">
+      <DataClassMoniker Name="/OxcoderDataContext/Challenge_Quiz" />
+      <nestedChildShapes>
+        <elementListCompartment Id="b7638293-dd3b-47a7-b49c-c432448ed3cb" absoluteBounds="6.265, 4.585, 1.9700000000000002, 0.62950642903645826" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="34febc43-752c-4a14-83c1-1c89ed849151" absoluteBounds="0.75, 2.875, 2, 3.6727624511718746">
+      <DataClassMoniker Name="/OxcoderDataContext/Enterprise" />
+      <nestedChildShapes>
+        <elementListCompartment Id="58d7df60-4d12-4854-b31e-6fe0918f12d0" absoluteBounds="0.765, 3.335, 1.9700000000000002, 3.112762451171875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5664391c-2032-48c9-a5d7-06e0ceec2d34" absoluteBounds="6.25, 0.75, 2, 1.9535852050781251">
+      <DataClassMoniker Name="/OxcoderDataContext/Person_Challenge" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d6a1358d-9bf5-4aa1-8f3c-0ca2db4b2701" absoluteBounds="6.265, 1.21, 1.9700000000000002, 1.393585205078125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 4.71975321451823); (5.79166416666667 : 4.71975321451823 : JumpStart); (5.95833083333333 : 4.71975321451823 : JumpEnd); (6.25 : 4.71975321451823)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/OxcoderDataContext/Challenge/Challenge_Challenge_Quiz" />
+      <nodes>
+        <classShapeMoniker Id="bc02b3ef-2760-414d-af2c-de45f3e8e61d" />
+        <classShapeMoniker Id="a511fcd2-3202-4bf0-850c-e1bd906b463b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.0312505 : 11.75); (4.0312505 : 6.08914428710938); (5.5625 : 6.08914428710938); (5.5625 : 4.71975321451823); (5.79166416666667 : 4.71975321451823 : JumpStart); (5.95833083333333 : 4.71975321451823 : JumpEnd); (6.25 : 4.71975321451823)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OxcoderDataContext/Quiz/Quiz_Challenge_Quiz" />
+      <nodes>
+        <classShapeMoniker Id="e3eb9565-c86c-4b0f-84b4-ea37b8bb86ab" />
+        <classShapeMoniker Id="a511fcd2-3202-4bf0-850c-e1bd906b463b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.76332214355469); (3.5 : 4.76332214355469)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/OxcoderDataContext/Enterprise/Enterprise_Challenge" />
+      <nodes>
+        <classShapeMoniker Id="34febc43-752c-4a14-83c1-1c89ed849151" />
+        <classShapeMoniker Id="bc02b3ef-2760-414d-af2c-de45f3e8e61d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.5 : 3.5); (4.5 : 1.72679260253906); (6.25 : 1.72679260253906)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/OxcoderDataContext/Challenge/Challenge_Person_Challenge" />
+      <nodes>
+        <classShapeMoniker Id="bc02b3ef-2760-414d-af2c-de45f3e8e61d" />
+        <classShapeMoniker Id="5664391c-2032-48c9-a5d7-06e0ceec2d34" />
+      </nodes>
+    </associationConnector>
+    <classShape Id="5abffa0c-24e2-4654-bdb9-86a8dc75d298" absoluteBounds="4.625, 6.875, 2, 2.1446048990885416">
+      <DataClassMoniker Name="/OxcoderDataContext/Person" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0cc9e6c9-92ec-49dc-9b88-646b57660211" absoluteBounds="4.64, 7.335, 1.9700000000000002, 1.5846048990885415" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.8749975 : 6.875); (5.8749975 : 2.24644140380859); (6.25 : 2.24644140380859)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/OxcoderDataContext/Person/Person_Person_Challenge" />
+      <nodes>
+        <classShapeMoniker Id="5abffa0c-24e2-4654-bdb9-86a8dc75d298" />
+        <classShapeMoniker Id="5664391c-2032-48c9-a5d7-06e0ceec2d34" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

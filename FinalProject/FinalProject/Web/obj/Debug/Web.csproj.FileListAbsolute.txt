@@ -1,0 +1,33 @@
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\Web.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\Web.pdb
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\BL.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\BL.pdb
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\bin\zh-Hans\Microsoft.Web.Infrastructure.resources.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\obj\Debug\Web.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\Web\obj\Debug\Web.pdb
+F:\GitHubNet\FinalProject\Web\bin\Web.dll
+F:\GitHubNet\FinalProject\Web\bin\Web.pdb
+F:\GitHubNet\FinalProject\Web\bin\BL.dll
+F:\GitHubNet\FinalProject\Web\bin\Microsoft.Web.Infrastructure.dll
+F:\GitHubNet\FinalProject\Web\bin\BL.pdb
+F:\GitHubNet\FinalProject\Web\bin\Microsoft.Web.Infrastructure.xml
+F:\GitHubNet\FinalProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+F:\GitHubNet\FinalProject\Web\obj\Debug\Web.dll
+F:\GitHubNet\FinalProject\Web\obj\Debug\Web.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\Web.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\Web.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\BL.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\DAL.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\Model.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\BL.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\DAL.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\Model.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\Web\bin\zh-Hans\Microsoft.Web.Infrastructure.resources.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\obj\Debug\Web.dll
+C:\Users\炎\Documents\GitHub\FinalProject\Web\obj\Debug\Web.pdb

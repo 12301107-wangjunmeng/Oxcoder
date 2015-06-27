@@ -1,0 +1,40 @@
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\Web.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\Web.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\BL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\Model.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\DAL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\BL.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\Model.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\Microsoft.Web.Infrastructure.xml
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\DAL.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\bin\zh-Hans\Microsoft.Web.Infrastructure.resources.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\obj\Release\Web.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\obj\Release\Web.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Web\obj\Release\Web.pdb
+D:\net\YuanQuanNew\FinalProject\Web\bin\Web.dll
+D:\net\YuanQuanNew\FinalProject\Web\bin\Web.pdb
+D:\net\YuanQuanNew\FinalProject\Web\bin\BL.dll
+D:\net\YuanQuanNew\FinalProject\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\net\YuanQuanNew\FinalProject\Web\bin\Model.dll
+D:\net\YuanQuanNew\FinalProject\Web\bin\DAL.dll
+D:\net\YuanQuanNew\FinalProject\Web\bin\BL.pdb
+D:\net\YuanQuanNew\FinalProject\Web\bin\Model.pdb
+D:\net\YuanQuanNew\FinalProject\Web\bin\Microsoft.Web.Infrastructure.xml
+D:\net\YuanQuanNew\FinalProject\Web\bin\DAL.pdb
+D:\net\YuanQuanNew\FinalProject\Web\obj\Release\Web.csprojResolveAssemblyReference.cache
+D:\net\YuanQuanNew\FinalProject\Web\obj\Release\Web.dll
+D:\net\YuanQuanNew\FinalProject\Web\obj\Release\Web.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\obj\Release\Web.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\obj\Release\Web.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\Web.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\Web.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\BL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\Model.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\DAL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\BL.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\bin\DAL.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Web\obj\Release\Web.pdb

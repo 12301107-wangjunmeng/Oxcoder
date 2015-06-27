@@ -1,0 +1,22 @@
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\bin\Debug\DAL.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\bin\Debug\DAL.pdb
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\bin\Debug\Model.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\bin\Debug\Model.pdb
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\obj\Debug\DAL.dll
+C:\Users\炎\Documents\Visual Studio 2012\Projects\GitHub\FinalProject\DAL\obj\Debug\DAL.pdb
+F:\GitHubNet\FinalProject\DAL\bin\Debug\DAL.dll
+F:\GitHubNet\FinalProject\DAL\bin\Debug\DAL.pdb
+F:\GitHubNet\FinalProject\DAL\bin\Debug\Model.dll
+F:\GitHubNet\FinalProject\DAL\bin\Debug\Model.pdb
+F:\GitHubNet\FinalProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\GitHubNet\FinalProject\DAL\obj\Debug\DAL.dll
+F:\GitHubNet\FinalProject\DAL\obj\Debug\DAL.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\bin\Debug\DAL.dll.config
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\bin\Debug\DAL.dll
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\bin\Debug\DAL.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\bin\Debug\Model.dll
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\bin\Debug\Model.pdb
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\obj\Debug\DAL.dll
+C:\Users\炎\Documents\GitHub\FinalProject\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,24 @@
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\bin\Release\DAL.dll.config
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\bin\Release\DAL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\bin\Release\DAL.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\bin\Release\Model.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\bin\Release\Model.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\obj\Release\DAL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\DAL\obj\Release\DAL.pdb
+D:\net\YuanQuanNew\FinalProject\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\net\YuanQuanNew\FinalProject\DAL\obj\Release\DAL.dll
+D:\net\YuanQuanNew\FinalProject\DAL\obj\Release\DAL.pdb
+D:\net\YuanQuanNew\FinalProject\DAL\bin\Release\DAL.dll.config
+D:\net\YuanQuanNew\FinalProject\DAL\bin\Release\DAL.dll
+D:\net\YuanQuanNew\FinalProject\DAL\bin\Release\DAL.pdb
+D:\net\YuanQuanNew\FinalProject\DAL\bin\Release\Model.dll
+D:\net\YuanQuanNew\FinalProject\DAL\bin\Release\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\obj\Release\DAL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\bin\Release\DAL.dll.config
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\bin\Release\DAL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\bin\Release\DAL.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\bin\Release\Model.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\bin\Release\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\DAL\obj\Release\DAL.pdb

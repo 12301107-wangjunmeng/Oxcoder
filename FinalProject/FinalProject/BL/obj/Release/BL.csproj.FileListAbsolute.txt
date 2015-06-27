@@ -1,0 +1,27 @@
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\bin\Release\BL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\bin\Release\BL.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\bin\Release\DAL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\bin\Release\Model.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\bin\Release\DAL.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\bin\Release\Model.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\obj\Release\BL.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\BL\obj\Release\BL.pdb
+D:\net\YuanQuanNew\FinalProject\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+D:\net\YuanQuanNew\FinalProject\BL\obj\Release\BL.dll
+D:\net\YuanQuanNew\FinalProject\BL\obj\Release\BL.pdb
+D:\net\YuanQuanNew\FinalProject\BL\bin\Release\BL.dll
+D:\net\YuanQuanNew\FinalProject\BL\bin\Release\BL.pdb
+D:\net\YuanQuanNew\FinalProject\BL\bin\Release\DAL.dll
+D:\net\YuanQuanNew\FinalProject\BL\bin\Release\Model.dll
+D:\net\YuanQuanNew\FinalProject\BL\bin\Release\DAL.pdb
+D:\net\YuanQuanNew\FinalProject\BL\bin\Release\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\obj\Release\BL.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\obj\Release\BL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\bin\Release\BL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\bin\Release\BL.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\bin\Release\DAL.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\bin\Release\Model.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\bin\Release\DAL.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\bin\Release\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\BL\obj\Release\BL.pdb

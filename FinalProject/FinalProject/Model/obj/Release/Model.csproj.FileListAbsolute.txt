@@ -1,0 +1,16 @@
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Model\bin\Release\Model.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Model\bin\Release\Model.pdb
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Model\obj\Release\Model.dll
+\\vmware-host\Shared Folders\下载\GitHubYuanQuan\FinalProject\Model\obj\Release\Model.pdb
+D:\net\YuanQuanNew\FinalProject\Model\bin\Release\Model.dll.config
+D:\net\YuanQuanNew\FinalProject\Model\bin\Release\Model.dll
+D:\net\YuanQuanNew\FinalProject\Model\bin\Release\Model.pdb
+D:\net\YuanQuanNew\FinalProject\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+D:\net\YuanQuanNew\FinalProject\Model\obj\Release\Model.dll
+D:\net\YuanQuanNew\FinalProject\Model\obj\Release\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Model\bin\Release\Model.dll.config
+C:\Users\wang\Desktop\FinalProject\FinalProject\Model\bin\Release\Model.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Model\bin\Release\Model.pdb
+C:\Users\wang\Desktop\FinalProject\FinalProject\Model\obj\Release\Model.csprojResolveAssemblyReference.cache
+C:\Users\wang\Desktop\FinalProject\FinalProject\Model\obj\Release\Model.dll
+C:\Users\wang\Desktop\FinalProject\FinalProject\Model\obj\Release\Model.pdb

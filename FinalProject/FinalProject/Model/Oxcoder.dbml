@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Yuanquan" Class="OxcoderDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=WANGJM;Initial Catalog=Yuanquan;Integrated Security=True" SettingsObjectName="Model.Properties.Settings" SettingsPropertyName="YuanquanConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Admin" Member="Admin">
+    <Type Name="Admin">
+      <Column Name="Aid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Aname" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Aemail" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Apassword" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Alevel" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Quiz" Member="Quiz">
+    <Type Name="Quiz">
+      <Column Name="Qid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Qname" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Qdescription" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Qclassify" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Qtime" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="QtargetFile" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Quiz_Challenge_Quiz" Member="Challenge_Quiz" ThisKey="Qid" OtherKey="Qid" Type="Challenge_Quiz" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Challenge" Member="Challenge">
+    <Type Name="Challenge">
+      <Column Name="Cid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Eid" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Cdifficulty" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Cposition" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Csalary" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ctime" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Cnumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Cstate" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Cattract" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Association Name="Challenge_Challenge_Quiz" Member="Challenge_Quiz" ThisKey="Cid" OtherKey="Cid" Type="Challenge_Quiz" />
+      <Association Name="Challenge_Person_Challenge" Member="Person_Challenge" ThisKey="Cid" OtherKey="Cid" Type="Person_Challenge" />
+      <Association Name="Enterprise_Challenge" Member="Enterprise" ThisKey="Eid" OtherKey="Eid" Type="Enterprise" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Challenge_Quiz" Member="Challenge_Quiz">
+    <Type Name="Challenge_Quiz">
+      <Column Name="Qid" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Cid" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Association Name="Challenge_Challenge_Quiz" Member="Challenge" ThisKey="Cid" OtherKey="Cid" Type="Challenge" IsForeignKey="true" />
+      <Association Name="Quiz_Challenge_Quiz" Member="Quiz" ThisKey="Qid" OtherKey="Qid" Type="Quiz" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Enterprise" Member="Enterprise">
+    <Type Name="Enterprise">
+      <Column Name="Eid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Epassword" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Eemail" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Ename" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="EnickName" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Elogo" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ewebsite" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Ecity" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Escope" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Eintroduction" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Eprove" Type="System.String" DbType="VarChar(200)" CanBeNull="true" />
+      <Column Name="Ephone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="EhrName" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Etime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Estate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Enterprise_Challenge" Member="Challenge" ThisKey="Eid" OtherKey="Eid" Type="Challenge" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Person_Challenge" Member="Person_Challenge">
+    <Type Name="Person_Challenge">
+      <Column Name="Cid" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Uid" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="State" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="Usetime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Score" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="AcceptTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Association Name="Challenge_Person_Challenge" Member="Challenge" ThisKey="Cid" OtherKey="Cid" Type="Challenge" IsForeignKey="true" />
+      <Association Name="Person_Person_Challenge" Member="Person" ThisKey="Uid" OtherKey="Uid" Type="Person" IsForeignKey="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Person" Member="Person">
+    <Type Name="Person">
+      <Column Name="Uid" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Uname" Type="System.String" DbType="VarChar(100)" CanBeNull="true" />
+      <Column Name="Uage" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Usex" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Uemail" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Upassword" Type="System.String" DbType="VarChar(100) NOT NULL" CanBeNull="false" />
+      <Column Name="Uphone" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Association Name="Person_Person_Challenge" Member="Person_Challenge" ThisKey="Uid" OtherKey="Uid" Type="Person_Challenge" />
+    </Type>
+  </Table>
+</Database>
